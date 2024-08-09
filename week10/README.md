@@ -21,4 +21,4 @@
 |   2   | `24.08.06.(화)` | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/description/?envType=daily-question&envId=2024-08-06) | `Normal` |
 |   3   | `24.08.07.(수)` | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/?envType=daily-question&envId=2024-08-07)                                 |  `Hard`  |
 |   4   | `24.08.08.(목)` | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08)                                               | `Medium` |
-|   5   | `24.08.09.(금)` |                                                                                                                                                                         |          |
+|   5   | `24.08.09.(금)` | [Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2024-08-09)                                       | `Medium` |
